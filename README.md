@@ -35,20 +35,7 @@ Tech Stack
 
 Example Output
 
-{
-"score": 87,
-"summary": "Strong candidate with solid technical and project experience.",
-"strengths": [
-"Strong programming skills in Python and JavaScript",
-"Good exposure to cloud and DevOps tools",
-"Strong project portfolio with machine learning and networking experience"
-],
-"improvements": [
-"Improve formatting consistency",
-"Reduce redundancy in technical skills",
-"Add more role-specific keywords"
-]
-}
+The system generates an ATS score of 87 out of 100. The resume is considered strong with solid technical and project experience. Strengths include strong programming skills in Python and JavaScript, good exposure to cloud and DevOps tools, and a strong project portfolio involving machine learning and networking experience. Areas for improvement include improving formatting consistency, reducing redundancy in the technical skills section, and adding more role-specific keywords to better optimize for ATS systems.
 
 Project Structure
 
