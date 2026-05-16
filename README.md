@@ -4,7 +4,7 @@ A full-stack AI-powered Resume Analyzer that evaluates resumes using Ollama (Lla
 
 This project simulates how real Applicant Tracking Systems (ATS) are used in modern hiring processes to screen and evaluate candidates.
 
-Live Demo
+💻 Live Demo
 
 https://incomparable-fairy-7d16c9.netlify.app/
 
