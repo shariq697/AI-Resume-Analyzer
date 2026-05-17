@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "resume-analyzer",
   "private": true,
   "version": "0.0.0",
@@ -23,5 +24,25 @@
     "eslint-plugin-react-refresh": "^0.5.2",
     "globals": "^17.6.0",
     "vite": "^8.0.12"
+=======
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "node-fetch": "^3.3.2",
+    "openai": "^6.37.0"
+>>>>>>> f7936d57e41de189a1b2d9ce204276dac7a77de2
   }
 }

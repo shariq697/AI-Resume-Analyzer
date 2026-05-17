@@ -1,0 +1,84 @@
+.app-bg {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #0f172a, #1e293b);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px;
+  font-family: Arial;
+  color: white;
+}
+
+.glass {
+  width: 500px;
+  background: rgba(255,255,255,0.08);
+  padding: 25px;
+  border-radius: 16px;
+  backdrop-filter: blur(10px);
+  box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+}
+
+textarea {
+  width: 100%;
+  height: 180px;
+  margin-top: 10px;
+  padding: 12px;
+  border-radius: 10px;
+  border: 2px solid #4f46e5;
+  background: #eef2ff;
+  color: black;
+  outline: none;
+}
+
+button {
+  width: 100%;
+  margin-top: 15px;
+  padding: 12px;
+  border: none;
+  border-radius: 10px;
+  background: #4f46e5;
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #4338ca;
+}
+
+.loading {
+  margin-top: 15px;
+  color: #cbd5e1;
+}
+
+.results {
+  width: 500px;
+  margin-top: 20px;
+}
+
+.card {
+  background: rgba(255,255,255,0.08);
+  padding: 15px;
+  margin-top: 12px;
+  border-radius: 12px;
+}
+
+.score-card {
+  width: 120px;
+  height: 120px;
+  margin: 20px auto;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #22c55e, #4f46e5);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+}
+
+.good {
+  color: #22c55e;
+}
+
+.bad {
+  color: #f97316;
+}
